@@ -1,4 +1,4 @@
-# ceb-c03.github.io
+#CEB-C03
 
 #Anggota Tim yang berkontribusi di project ini
 
@@ -8,4 +8,4 @@
 #Rayval Gumilar
 #Winda Sukma N
 
-https://vallazy.github.io/ceb-c03.github.io/
+https://vallazy.github.io/ceb-c03/
