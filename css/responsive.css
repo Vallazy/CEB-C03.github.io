@@ -1,0 +1,102 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+    
+    .top-wrapper h1 {
+        font-size: 32px;
+    }
+    
+    .aboutTeam-wrapper .container {
+       width: 50%;
+   } 
+   .profile-wrapper h1 {
+       font-size: 32px;
+   }
+   
+   .profile-anggota {
+       flex-wrap: wrap;
+       margin-bottom: 50px;
+   }
+   .anggota {
+       margin-bottom: 30px;
+       width: 50%; 
+   }
+    
+    .box {
+        width: 100%;
+    }
+    
+    .box-2 {
+        width: 100%;
+    }
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+    
+    .header-list {
+        display: none;
+    }
+
+    .header .menu-icon {
+        display: block;
+    }
+
+    .top-wrapper {
+        text-align: center;
+    }
+
+    .top-wrapper h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .top-wrapper p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .btn {
+        width: 70%;
+    }
+
+     .aboutTeam-wrapper {
+        padding: 5% 10%;
+    }
+
+    .aboutTeam-wrapper .container {
+        width: 100%;
+    } 
+
+    .profile-wrapper h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    
+    .profile-wrapper p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    
+    
+    .profile-anggota {
+        flex-direction: column;
+        
+    }
+    
+    .anggota {
+        margin-bottom: 30px;
+        width: 100%;
+    }
+    
+    .box {
+        width: 100%;
+    }
+
+    .box-2 {
+        width: 100%;
+    }
+    
+}
